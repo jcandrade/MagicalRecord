@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "AB7461141F68A9F000C8B5E8"
-               BuildableName = "MagicalRecord for tvOS.framework"
+               BuildableName = "MagicalRecord.framework"
                BlueprintName = "MagicalRecord for tvOS"
                ReferencedContainer = "container:MagicalRecord.xcodeproj">
             </BuildableReference>
@@ -46,7 +46,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "AB7461141F68A9F000C8B5E8"
-            BuildableName = "MagicalRecord for tvOS.framework"
+            BuildableName = "MagicalRecord.framework"
             BlueprintName = "MagicalRecord for tvOS"
             ReferencedContainer = "container:MagicalRecord.xcodeproj">
          </BuildableReference>
@@ -64,7 +64,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "AB7461141F68A9F000C8B5E8"
-            BuildableName = "MagicalRecord for tvOS.framework"
+            BuildableName = "MagicalRecord.framework"
             BlueprintName = "MagicalRecord for tvOS"
             ReferencedContainer = "container:MagicalRecord.xcodeproj">
          </BuildableReference>

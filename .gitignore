@@ -18,7 +18,8 @@ profile
 *.moved-aside
 
 DerivedData
-Carthage/Build
+
+Carthage
 
 *.gcno
 *.gcda
