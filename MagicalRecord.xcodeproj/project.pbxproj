@@ -2823,6 +2823,7 @@
 				AB74611B1F68A9F000C8B5E8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C721C7A513D0A3750097AB6F /* Build configuration list for PBXProject "MagicalRecord" */ = {
 			isa = XCConfigurationList;
