@@ -1446,7 +1446,6 @@
 				905D07141A63DE190076B54E /* Frameworks */,
 				905D07151A63DE190076B54E /* Headers */,
 				905D07161A63DE190076B54E /* Resources */,
-				90A0DE281C50E2FD00CF5A5A /* Set Version Information */,
 			);
 			buildRules = (
 			);
@@ -1777,20 +1776,6 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		90A0DE281C50E2FD00CF5A5A /* Set Version Information */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "Set Version Information";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"$SRCROOT/Support/Scripts/set_version_information.sh\"";
-		};
 		90A0DE291C50E32200CF5A5A /* Set Version Information */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
